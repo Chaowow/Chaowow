@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Frankie</h1>
 <h3 align="center">A passionate frontend developer from GA</h3>
 
-- 🔭 I’m currently working on **a To-Do App**
-
 - 📫 How to reach me **frankiejosefej@gmail.com**
 
 - ⚡ Fun fact **I own a 1998 BMW M3**
