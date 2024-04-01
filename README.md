@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Frankie</h1>
 <h3 align="center">A passionate full-stack developer from GA</h3>
 
-- 🔭 I’m currently working on **a threejs project**
+- 🔭 I’m currently working on **a fighting game**
 
 - 🌱 I’m currently learning **Python**
 
