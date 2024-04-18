@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Frankie</h1>
 <h3 align="center">A passionate full-stack developer from GA</h3>
 
-- 🔭 I’m currently working on **a fighting game**
+- 🔭 I’m currently working on **a slot machine project**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **what I want to learn next**
 
 - 📫 How to reach me **frankiejosefej@gmail.com**
 
